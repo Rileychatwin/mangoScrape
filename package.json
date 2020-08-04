@@ -1,0 +1,19 @@
+{
+  "name": "mangoscrape",
+  "version": "1.0.0",
+  "description": "package for homework 18",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rileychatwin/mangoScrape.git"
+  },
+  "author": "riley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rileychatwin/mangoScrape/issues"
+  },
+  "homepage": "https://github.com/Rileychatwin/mangoScrape#readme"
+}
